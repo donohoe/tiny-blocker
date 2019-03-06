@@ -1,10 +1,11 @@
 {
 	"name":        "Tiny Blocker",
 	"version":     "0.0.0.1",
+	"short_name":  "Tiny Blocker",
 	"description": "The tiny but powerful blocker on the web. Hold me closer Tiny Blocker.",
 	"manifest_version": 2,
 	"icons": {
-		"128": "img/icon_128.png"
+		"128": "img/icon-128.png"
 	},
 	"permissions": [
 		"<all_urls>",
