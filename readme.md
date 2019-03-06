@@ -8,4 +8,13 @@ In that respect it is overly aggressive but anecdotally threads the line between
 
 ## Usage
 
-I plan to add it to the *Chrome Web Store* at some stage. Until then you need to use it as an uncomplied extesnion. Visit this page tos ee how to do that: [Getting Started Tutorial](https://developer.chrome.com/extensions/getstarted#manifest)
+I plan to add it to the *Chrome Web Store* at some stage. Until then you need to use it as an uncompiled extension. Visit this page to see how to do that: [Getting Started Tutorial](https://developer.chrome.com/extensions/getstarted#manifest)
+
+1. Open the *Extension Management* page by navigating to [chrome://extensions](chrome://extensions).
+   - It also be opened by clicking on the Chrome menu > More Tools then selecting *Extensions*.
+2. Enable Developer Mode by clicking the toggle switch next to Developer mode.
+3. Click the 'LOAD UNPACKED' button and select the extension directory.
+
+## Tracking
+
+There is no tracking performed by this extension. It minimizes data leakage by using [Content Security Polices](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP) (CSP) to block almost everything at a browser level.
