@@ -8,7 +8,7 @@ In that respect it is overly aggressive but anecdotally threads the line between
 
 ## Usage
 
-I plan to add it to the *Chrome Web Store* at some stage. Until then you need to use it as an uncompiled extension. Visit this page to see how to do that: [Getting Started Tutorial](https://developer.chrome.com/extensions/getstarted#manifest)
+It has been submitted to the *Chrome Web Store* (pending review). Until then you need to use it as an uncompiled extension. Visit this page to see how to do that: [Getting Started Tutorial](https://developer.chrome.com/extensions/getstarted#manifest)
 
 1. Open the *Extension Management* page by navigating to [chrome://extensions](chrome://extensions).
    - It also be opened by clicking on the Chrome menu > More Tools then selecting *Extensions*.
